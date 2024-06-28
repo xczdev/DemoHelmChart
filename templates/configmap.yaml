@@ -4,4 +4,4 @@ metadata:
   name: app-config
 data:
   country: France
-  city: Paris
+  city: Lyon
